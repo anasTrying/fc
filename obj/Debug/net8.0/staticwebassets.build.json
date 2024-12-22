@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ICZ6slQDmHSTMpQBloiqb1N2g48VPeuqq5sC2IqMrdk=",
+  "Source": "ArtistAPI-DotNet8",
+  "BasePath": "_content/ArtistAPI-DotNet8",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
